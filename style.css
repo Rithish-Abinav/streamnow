@@ -40,9 +40,9 @@ margin-right: 20px;
 .menu{
     height: fit-content;
     position: fixed;
-    bottom: 0;
+    bottom: 10px;
     width: fit-content;
-    right: 0;
+    right:10px;
 }
 .cart,.camera,.videocam,.voice,.chat,.menu i{
    height: 48px;
@@ -54,7 +54,7 @@ margin-right: 20px;
    place-items: center;
 }
 .menu-selects{
-    width: 80%;
+    width: 75%;
     display: none;
     height: 300px;
     position: fixed;
